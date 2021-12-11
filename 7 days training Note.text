@@ -1,3 +1,5 @@
+binary search,
+s[1], s[2] = s[2], s[1]
 start and end pointer, 
 fast and slow pointer, 
 hash table, 
